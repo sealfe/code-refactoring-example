@@ -12,7 +12,6 @@ public class TragedyAmountCalculate extends AmountCalculate{
         super(audience, "tragedy");
     }
 
-
     @Override
     public int getAmount() {
         int thisAmount = 40000;
